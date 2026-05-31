@@ -1,3 +1,7 @@
+### Legal Disclaimer
+
+All satellite data and derived products collected via this script must be used in strict compliance with applicable local and international laws, data privacy regulations, and platform terms of service.
+
 # QGIS Satellite Imagery
 
 This repo contains a QGIS Python script that exports Bing Satellite imagery for a selected area by splitting it into tiles (grid) and generating coordinate-aware outputs.
